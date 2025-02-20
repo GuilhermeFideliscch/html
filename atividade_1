@@ -1,3 +1,7 @@
+navbar no bootstrep (apagar e deixar navbar e escrever dashboard)
+criar embaixo uma div com class row  com col 4 (fazer 3 colunas)
+criar um card e um card body e duplicar
+
 <!doctype html>
 <html lang="en">
   <head>
