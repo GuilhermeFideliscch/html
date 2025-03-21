@@ -1,1 +1,21 @@
 <form>//: um container para abrigar varios tipos de input
+
+front é tudo aquilo que a gnt visualiza
+html=linguagem de marcaçã
+<!doctype html>//=o navegador vai interpretar html
+<html lang="en>//=sempre
+<head>//=tag estruturante, tudo que vai ficar invisivel para o usuario,é uma tag de info e dados
+<link></link>//é um codigo estilizador, pode ser um codigo css
+<style>//outra maneira de estilizar
+body{//desse jeito vai para todo o body, para ir apenas a classe é .body,com id é #,ordem de prioridade id>class>tag
+  font-size: 10px;
+  background-color:;
+  color:;
+  border-radius:;
+}
+</style>
+</head>
+<body>//=geralmente script vai no body e no finalzinho da pagina por questoes de performance, a body é tudo o que a gente vai exibir ao user
+<script scr="./scripts.js"></script>//usar o javascript
+</body>
+</html>
