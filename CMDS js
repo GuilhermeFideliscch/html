@@ -1,0 +1,17 @@
+let numeroInteiro = 1;//criar variaveis em js meio que locais
+let variasinfo = {
+  "nome": "joao",
+  "idade": 1,
+}
+let listadeitens{
+  1,2,3,4
+}
+let listadeobjetos = {
+{"nome":"joao"},
+{"nome":"maria"},
+{"nome":"pedro"},
+{"nome":"marta"},
+}
+
+em html:
+<a href="sla.html">ir para sla</a>
