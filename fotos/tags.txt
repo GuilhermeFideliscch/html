@@ -1,0 +1,55 @@
+exemplo form: button type submit, type email required, form-control,container, tem os margin tb como o margin-bottom: 20px,textarea,select,
+radio input em cima label em baixo,coloca o name com todos eles iguais;
+
+tag <a> de navegação com href,target="_blank";
+
+tag img (lembrar de copiar o link da imagem);
+
+tag h1 h2 h3;
+
+CSS
+body{
+	background-color
+}
+
+.backgroundvermelho{
+	background-color
+}
+
+.borda{
+	border-style: solid;
+	border-color: aqua;
+	border-width: 10px;
+	margin: 10px;
+	padding: 10px;
+	border-radius: 10px;
+}
+
+JS
+html le de cima para baixo o codigo(ou seja o js pode querer mecher na pagina sem ter pagina),
+js é a lib mais demorada para ser carregada pelo html, entao deixa ele na ultima linha do body;
+.foreach,.map;
+<script>
+	alert("nbfdibqi")
+	let nome = "joao"
+	let filhos = [
+		{'nome': "joao Filho", "idade": 10}
+		{'nome': "joao Filho", "idade": 19}
+		{'nome': "joao Filho", "idade": 20}
+]	
+	console.log(filhos) 
+ 		ou
+	filhos.map((ou .foreach))(function (item){
+        console.log(item)
+	})
+
+	
+		
+	no html//
+	<h1>filhos que precisam sair de casa</h1>
+	<ol id="listafilhos">
+
+	</ol>
+	
+</script>
+
