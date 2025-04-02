@@ -58,3 +58,31 @@ array em javascript
 let numeros=[1,2,3,4,5];
 let misturado=[1,'maca','banana,3];
 let vazio=new Array();//esta falando que essa variavel é um objeto
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Bootstrap demo</title>
+  </head>
+  <body>
+    <script>
+        let array=['sla1','sla2','sla3'];
+        array.push('sla1')
+        console.log(array)
+
+        array.pop()
+        console.log(array)
+        
+        array.unshift('sla2')
+        console.log(array)
+
+        array.shift('sla2')
+        console.log(array)
+
+        array.splice(1,1)
+        console.log(array)
+    </script>
+  </body>
+</html>
