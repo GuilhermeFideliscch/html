@@ -53,3 +53,8 @@ js é a lib mais demorada para ser carregada pelo html, entao deixa ele na ultim
 	
 </script>
 
+
+array em javascript
+let numeros=[1,2,3,4,5];
+let misturado=[1,'maca','banana,3];
+let vazio=new Array();//esta falando que essa variavel é um objeto
