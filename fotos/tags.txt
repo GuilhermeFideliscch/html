@@ -1,3 +1,5 @@
+https://www.tabnews.com.br/GabrielSozinho/6-sites-para-voce-treinar-css-html-e-javascript    LINK IMPORTANTE
+
 exemplo form: button type submit, type email required, form-control,container, tem os margin tb como o margin-bottom: 20px,textarea,select,
 radio input em cima label em baixo,coloca o name com todos eles iguais;
 
