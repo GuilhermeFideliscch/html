@@ -1,0 +1,92 @@
+conteudos que vão cair.
+HTML:  ○ Listas - quase dominado
+ ○ Tabelas - a dominar
+ ○ Formulários - Não sei
+ ○ Conceitos de design - não sei
+ ○ Estruturação da página - mais ou menos
+ ○ Tags de importação de css e js - quase dominado(ver a de css)
+ ○ Tags de navegação - Não sei
+ ○ Tags de conteúdo visual - Não sei
+ ○ Tags textuais - Não sei
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Listas: Listas em html podem ser ordenadas <ol> ou não ordenadas <ul>, exemplos:
+ 
+ <ul>Lista exemplo
+ <li>item</li>
+ <li>item</li>
+ <li>item</li>
+ </ul>
+
+<ol>lista exemplo ordenada
+<li>item</li>
+<li>item</li>
+<li>item</li>
+</ol>
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Tabelas: crie o table,coloque o thead no cebçalho, eo tbody no corpo, no cabeçalho use th, e no body use td, sempre abra e feche usando o tr
+
+<table>
+<thead>
+  <tr>
+    <th>Nome</th>
+    <th>Idade</th>
+  </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <td>Maria</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>João</td>
+    <td>25</td>
+  </tr>
+  </tbody>
+</table>
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+Formulario: use a tag form para o formulario, use o <label> para o nome acima dos input, use os input para a inserção de dados do formulario, tipos de input,
+type="text", usado para inserção de dados no tipo texto.
+type="radio", circulo usado para escolher uma de varias opções.
+type="checkbox", quadrado de checkbox para escolher nenhuma, uma ou mais de uma alternativa.
+type="date", campo para inserir datas.
+type="email", campo para inserir emails.
+type="password", campo para inserir senha
+type="number", campo para inserir numero.
+
+<form>
+  <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname"><br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname">
+  <input type="radio" id="html" name="fav_language" value="HTML">
+  <label for="html">HTML</label><br>
+  <input type="radio" id="css" name="fav_language" value="CSS">
+  <label for="css">CSS</label><br>
+  <input type="radio" id="javascript" name="fav_language" value="JavaScript">
+  <label for="javascript">JavaScript</label>
+  <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+  <label for="vehicle1"> I have a bike</label><br>
+  <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+  <label for="vehicle2"> I have a car</label><br>
+  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+  <label for="vehicle3"> I have a boat</label>
+</form>
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ CSS - não sei
+ ○ Tipos de seletores
+ ○ Formatação de texto
+ ○ Bordas
+ ○ Cores de fundo
+ ○ Margens (externas e internas)
+ ○ Bootstrap
+
+ Javascript -
+ ○ Sintaxe geral da linguagem - não sei
+ ○ Tipos de variáveis - mais ou menos
+ ○ Laços de Repetição - a dominar
+ ○ Condicionais - a dominar
+ ○ Modificações no DOM - não sei
+ ○ Manipulação de arrays - não sei
